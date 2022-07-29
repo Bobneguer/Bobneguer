@@ -1,5 +1,7 @@
 - 👋 Olá, sou o Bob :)
 
+<hr>
+
 👀 Tecnologias:
   - HTML (Avançado)
   - CSS (Avançado)
@@ -16,7 +18,10 @@
   <br>
   
 💞️ Busco
-  - Emprego como: Desenvolvedor Web full-stack (Júnior)
+  - Emprego como: Desenvolvedor Web full-stack
+    - Júnior
+    - A partir de R$1.000,00
+    - Santo Andre - SP
   <br>
 
 📫 Contato:
