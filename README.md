@@ -20,7 +20,7 @@
 💞️ Busco
   - Emprego como: Desenvolvedor Web full-stack
     - Júnior
-    - A partir de R$1.000,00
+    - Salário a Combinar
     - Santo Andre - SP
   <br>
 
