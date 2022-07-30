@@ -13,7 +13,7 @@
   
 🌱 Aprendendo:
   - CSharp (10%)
-  - ReacJS (5%)
+  - ReactJS (5%)
   - MongoDB (3%)
   <br>
   
