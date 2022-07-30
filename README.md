@@ -17,7 +17,7 @@
   - MongoDB (3%)
   <br>
   
-💞️ Busco
+🤔 Busco
   - Emprego como: Desenvolvedor Web full-stack
     - Trainee
     - Salário a Combinar
