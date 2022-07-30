@@ -19,7 +19,7 @@
   
 💞️ Busco
   - Emprego como: Desenvolvedor Web full-stack
-    - Júnior
+    - Trainee
     - Salário a Combinar
     - Santo Andre - SP
   <br>
