@@ -15,6 +15,7 @@
   - CSharp (10%)
   - ReactJS (5%)
   - MongoDB (3%)
+  - SQL (2%)
   <br>
   
 🤔 Busco
