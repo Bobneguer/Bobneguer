@@ -31,5 +31,4 @@
   
 💞️ Projetos:
   - [Divulgadores Rede](https://divulgadores.glitch.me)
-  - [Zaiper](https://zaiper.glitch.me)
   <br>
